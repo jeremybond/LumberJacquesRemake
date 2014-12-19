@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a7e174092f97265478deaab8e90245e8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundFolder: {fileID: 100000, guid: 3837f2514c4fd14438319f683fb0143f, type: 2}
+  - groundGrassFolder: {fileID: 100000, guid: bce2c672b26504b4197b9b5963d99787, type: 2}
+  - groundStoneFolder: {fileID: 100000, guid: aaca79de37c635c45b3927119a00ed92, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
