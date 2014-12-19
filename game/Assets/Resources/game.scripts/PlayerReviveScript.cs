@@ -7,7 +7,7 @@ public class PlayerReviveScript : MonoBehaviour {
 	private GameOverInputController gameOver;
 
 	private bool playerOneHasWon = true;
-	private byte lives = 2;
+	private byte lives = 5;
 
 	private byte characterOneLives;
 	private byte characterTwoLives;
